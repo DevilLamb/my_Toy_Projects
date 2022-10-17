@@ -1,0 +1,28 @@
+/* 내 css는 절망적이다  */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.main {
+  margin: auto;
+  padding: auto;
+  width: 500px;
+  height: 500px;
+  background-image: url("images.jpg");
+  background-size: cover;
+}
+
+.inner {
+  margin: auto;
+  padding: auto;
+}
+
+h2 {
+  color: aliceblue;
+  display: block;
+  margin: auto;
+  padding: auto;
+}
